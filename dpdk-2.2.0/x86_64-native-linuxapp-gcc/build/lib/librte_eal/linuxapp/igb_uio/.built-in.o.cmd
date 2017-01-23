@@ -1,0 +1,1 @@
+cmd_/root/dpdk/dpdk-2.2.0/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o :=  rm -f /root/dpdk/dpdk-2.2.0/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o; ar rcsD /root/dpdk/dpdk-2.2.0/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o
